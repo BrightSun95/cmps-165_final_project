@@ -21,3 +21,19 @@ h1.title{
     padding-bottom: 25px;
 }
 
+figure{
+    position: relative;
+    float: right;
+    width: 30%;
+    height: 30%;
+}
+
+figcaption{
+    font-size: 15px;
+}
+
+img{
+    width: 70%;
+    height: 70%;
+}
+
