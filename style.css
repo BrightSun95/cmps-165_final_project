@@ -1,0 +1,23 @@
+ body{
+    background-color: aliceblue;
+    font-weight: bold;
+    overflow-x:auto;
+    padding-bottom: 20px;
+}
+
+p{
+    position: relative;
+    font-size: 20px;
+    text-align: left;
+    width: 60%;
+    left: 5%;
+}
+
+h1.title{
+    left: 20%;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    padding-bottom: 25px;
+}
+
